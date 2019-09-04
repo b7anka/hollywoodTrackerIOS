@@ -1,0 +1,15 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Holly Tracker";
+
+/* Bundle name */
+"CFBundleName" = "Hollywood Tracker ";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Permita a Holly Tracker accesso à sua câmera para tirar uma foto. A foto que tirar (apenas aquela que escolher) será depois enviada para os servidores de holly tracker para ser usada no seu perfil de utilizador.";
+
+/* Privacy - Face ID Usage Description */
+"NSFaceIDUsageDescription" = "Precisamos usar o Face ID para o autenticar nesta aplicação.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Permita a Holly Tracker acesso à sua biblioteca para escolher uma imagem e enviá-la (apenas aquela que escolher) para os servidores de Holly Tracker para ser usada no seu perfil de utilizador.";
+

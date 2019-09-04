@@ -1,0 +1,210 @@
+/* 
+  Localizable.strings
+  hollywoodtracker
+
+  Created by Tiago Moreira on 08/04/19.
+  Copyright © 2019 Tiago Moreira. All rights reserved.
+*/
+
+"error" = "Error";
+"no_internet" = "No internet connection available!";
+/* No comment provided by engineer. */
+"profile" = "Profile";
+
+/* No comment provided by engineer. */
+"recent" = "Recent";
+
+/* No comment provided by engineer. */
+"tvshows" = "Tv Shows";
+
+"movies" = "Movies";
+
+"user_is_invalid" = "It seems there is something wrong with your user, it appears that it no longer exists! You will be logged out from the application, try to login again or use a diferent user account!";
+
+"welcome" = "Welcome to Hollywood Tracker!";
+
+"on_empty_user_inputs" = "You need to fill everything before proceeding!";
+
+"fullname_requirements" = "The full name field can only contain letters, spaces and a maximum of 80 characters, and you have to enter at least 2 names!";
+
+"email_requirements" = "The email address field can't have more than 50 lower case characters and needs to be a valid address!";
+
+"username_requirements" = "The username field can only contain letters, numbers, dots and cannot have more than 40 characters!";
+
+"title_requirements" = "The title can't have more than 60 characters!";
+
+"bug_report_sent_title" = "Bug report sent!";
+
+"bug_report_saved_title" = "Bug report saved!";
+
+"bug_report_saved_successfully" = "Bug report successfully saved!";
+
+"thumbnail_uploaded" = "Thumbnail uploaded!";
+
+"upload_btn" = "Upload";
+
+"edit_profile_btn" = "Edit Profile";
+
+"save_btn" = "Save";
+
+"ask_what_user_wants_to_do" = "What do you want to do?";
+
+"edit_information" = "Edit Information";
+
+"change_password" = "Change Password";
+
+"delete_account" = "Delete My Account";
+
+"cancel_btn" = "Cancel";
+
+"profile_updated_title" = "Your profile was updated!";
+
+"profile_saved_successfully" = "You profile has been updated and the changes were saved successfully!";
+
+"warning" = "Warning!";
+
+"ask_user_to_delete_account" = "Are you sure you want to delete your account?\nThis action is irreversible!";
+
+"yes_btn" = "Yes";
+
+"no_btn" = "No";
+
+"account_deleted" = "Account deleted!";
+
+"premium_user" = "Premium User";
+
+"total" = "Total";
+
+"new_password_equals_current" = "Your new password can't be the same as your current password!";
+
+"passwords_dont_match" = "The passwords don't match!";
+
+"password_requirements" = "The password must be at least 8 characters long, 1 uppercase letter, 1 lower case letter, 1 number and 1 symbol! The symbol cannot be a semi-colon!";
+
+"current_password_wrong" = "Your current password is wrong!";
+
+"password_changed_title" = "Password changed!";
+
+"password_changed_successfully" = "Your password was successfully changed!";
+
+"logged_in" = "Logged in successfully!";
+
+"email_sent" = "Email sent!";
+
+"code_wrong" = "The code you entered is wrong!";
+
+"not_watching_movies" = "You are not currently watching any movie.";
+
+"not_watching_tvshows" = "You are not currently watching any tv show.";
+
+"no_recent_to_show" = "You haven't watched anything recently.";
+
+"add_tvshow" = "Add Tv Show Episode";
+
+"add_movie" = "Add Movie";
+
+"edit_tvshow" = "Edit Tv Show Episode";
+
+"edit_movie" = "Edit Movie";
+
+"you_sure_delete_title" = "Are you sure you want to delete this title?\nThis action is not reversible!";
+
+"information" = "Information!";
+
+"ask_if_user_has_finished_watching_the_show" = "Did you finish watching this";
+
+"mov" = "movie";
+
+"tv" = "episode";
+
+"ask_if_user_wants_to_edit_show" = "Do you want to edit this";
+
+"ask_user_to_delete_everything" = "Are you sure you want to delete everything?\nThis action is not reversible!";
+
+"ok_btn" = "Ok";
+
+"success" = "Success!";
+
+"everything_deleted_successfully" = "Everything was deleted successfully!";
+
+"updated" = "updated";
+
+"movie" = "Movie";
+"episode" = "Episode";
+
+"offline_changes" = "The changes you have made were saved and will be communicated to the server once you get your internet connection back!";
+
+"show_deleted" = "Show deleted!";
+
+"season" = "Season";
+
+"episode" = "Episode";
+
+"completed" = "Completed";
+
+"nothing_to_delete" = "You have nothing to delete!";
+
+"watched_time_requirements" = "The watched time field can't have more than 8 characters and the max value for watched time is 03:59:59!\nWatched time ex: (00:00:00)";
+
+"season_requirements" = "The season field can't have more than 2 characters and the max value for season is 59!\nSeason ex: (01)";
+
+"episode_requirements" = "The episode field can't have more than 2 characters and the max value for episode is 79!\nEpisode ex: (00)";
+
+"added" = "added";
+
+"no_camera" = "You don't have a camera or it is broken!";
+
+"camera_or_library" = "Open camera or library?";
+
+"camera_btn" = "Camera";
+
+"library_btn" = "Library";
+
+"user_already_registered" = "Oops...!";
+
+"ask_user_if_he_wants_to_link_his_google_account" = "There's already an user registered with that email address, do you want to link this google account?";
+
+"unlink_google_account" = "Unlink Google Account";
+
+"are_you_sure" = "Are you sure?";
+
+"ask_user_if_he_wants_to_unlink_his_google_account" = "Are you sure you want to unlink your google account? You will have to link it again if you want to use it in the future. Proceed?";
+
+"google_account_updated" = "Google account status updated";
+
+"successfully_unliked_google_account" = "You have successfully unlinked your google account!";
+
+"success_title" = "Success!";
+
+"total_videos_watched" = "Total Videos Watched";
+
+"updated_to_premium_successfully" = "Congratulations! You are now a premium user!";
+
+"total_videos_watched_saved" = "Total videos watched updated successfully!";
+
+"wait_to_watch_video_again" = "You have to wait a little bit to watch another video!";
+
+"ask_if_user_wants_to_add_next_episode" = "Do you want to add the next episode of the tv show";
+
+"product_title" = "Title";
+
+"product_info" = "Description";
+
+"in_app_purchases_not_available" = "Your device does not support in app purchases!";
+
+"check_remember_me_first_before_using_this_functionality" = "You need to check the option \"Remember me?\" at login before using this functionality!";
+
+"device_does_not_support_biometric" = "Your device does not support biometric authentication!";
+
+"biometric_not_enrolled" = "You need to enroll a finger print or a face to be able to use this funcionality!";
+
+"app_needs_updating" = "There is an update available! It is mandatory that you update the app.";
+
+"place_fingerprint_in_sensor" = "Place your finger on the touch id sensor to authenticate yourself.";
+
+"buy_btn" = "Buy Premium";
+
+"restore_btn" = "Restore Premium";
+
+"premium_restored_successfully" = "Premium Restored Successfully!";
+

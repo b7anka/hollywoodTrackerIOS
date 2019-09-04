@@ -1,0 +1,429 @@
+/* Class = "UIButton"; normalTitle = "Rate My App"; ObjectID = "0qi-ka-wUG"; */
+"0qi-ka-wUG.normalTitle" = "Classificar Aplicação";
+
+/* Class = "UILabel"; text = "Recents"; ObjectID = "0ue-BD-1MO"; */
+"0ue-BD-1MO.text" = "Recentes";
+
+/* Class = "UILabel"; text = "Episode"; ObjectID = "2wN-Qe-0QA"; */
+"2wN-Qe-0QA.text" = "Episódio";
+
+/* Class = "UILabel"; text = "Season"; ObjectID = "2Wp-PN-eUB"; */
+"2Wp-PN-eUB.text" = "Temporada";
+
+/* Class = "UINavigationItem"; title = "Movies"; ObjectID = "3rd-1N-wD1"; */
+"3rd-1N-wD1.title" = "Filmes";
+
+/* Class = "UITextField"; placeholder = "Enter your current password"; ObjectID = "4fk-5S-YB4"; */
+"4fk-5S-YB4.placeholder" = "Introduza a sua palavra-passe actual";
+
+/* Class = "UILabel"; text = "Watched Time"; ObjectID = "5En-Zu-pc0"; */
+"5En-Zu-pc0.text" = "Tempo Visto";
+
+/* Class = "UINavigationItem"; title = "Verify Code"; ObjectID = "5ZP-vt-KXO"; */
+"5ZP-vt-KXO.title" = "Verificar Código";
+
+/* Class = "UITextField"; placeholder = "Username or Email"; ObjectID = "6IF-qa-Da4"; */
+"6IF-qa-Da4.placeholder" = "Nome de utilizador ou email";
+
+/* Class = "UITabBarItem"; title = "Movies"; ObjectID = "6pU-kl-fEm"; */
+"6pU-kl-fEm.title" = "Filmes";
+
+/* Class = "UINavigationItem"; title = "Change Password"; ObjectID = "7vi-6y-Xse"; */
+"7vi-6y-Xse.title" = "Alterar Palavra-passe";
+
+/* Class = "UINavigationItem"; title = "Change password"; ObjectID = "8GZ-4m-MN3"; */
+"8GZ-4m-MN3.title" = "Alterar Palavra-passe";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "8hw-MT-VFW"; */
+"8hw-MT-VFW.title" = "Definições";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "8oF-F0-jEt"; */
+"8oF-F0-jEt.title" = "Sair";
+
+/* Class = "UILabel"; text = "developer.b7anka@gmail.com"; ObjectID = "9Ej-4l-PXS"; */
+"9Ej-4l-PXS.text" = "developer.b7anka@gmail.com ";
+
+/* Class = "UILabel"; text = "Season"; ObjectID = "9oS-OL-cGu"; */
+"9oS-OL-cGu.text" = "Temporada";
+
+/* Class = "UITextView"; text = "Describe the bug and if possible provide the steps necessary for me to reproduce the error"; ObjectID = "9V9-r2-iTV"; */
+"9V9-r2-iTV.text" = "Descreva o erro e se possível forneça os passos necessários para que eu posso reproduzi-lo";
+
+/* Class = "UIBarButtonItem"; title = "About"; ObjectID = "AEb-uR-pAl"; */
+"AEb-uR-pAl.title" = "Sobre";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "amR-Ve-QTT"; */
+"amR-Ve-QTT.normalTitle" = "Enviar";
+
+/* Class = "UITextField"; placeholder = "Enter your email address"; ObjectID = "asj-Ao-saI"; */
+"asj-Ao-saI.placeholder" = "Introduza o seu endereço de email";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "B3i-yP-GDI"; */
+"B3i-yP-GDI.title" = "Definições";
+
+/* Class = "UITextField"; placeholder = "Enter your password"; ObjectID = "B8W-bQ-Hkj"; */
+"B8W-bQ-Hkj.placeholder" = "Introduza a sua palavra-passe";
+
+/* Class = "UILabel"; text = "Product Title:"; ObjectID = "Bdc-Ki-tl5"; */
+"Bdc-Ki-tl5.text" = "Título";
+
+/* Class = "UILabel"; text = "Tap the image to change it"; ObjectID = "biK-ed-hos"; */
+"biK-ed-hos.text" = "Toque na imagem para a mudar";
+
+/* Class = "UINavigationItem"; title = "Movies"; ObjectID = "BiW-yf-IKZ"; */
+"BiW-yf-IKZ.title" = "Filmes";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "bPx-p0-WpA"; */
+"bPx-p0-WpA.title" = "Perfil";
+
+/* Class = "UILabel"; text = "Choose default home screen"; ObjectID = "CBx-vh-Swr"; */
+"CBx-vh-Swr.text" = "Escolha o ecrã inicial";
+
+/* Class = "UILabel"; text = "Videos required: 200"; ObjectID = "cc0-Mt-fHu"; */
+"cc0-Mt-fHu.text" = "Vídeos necessários: 200";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "CFs-i9-OXB"; */
+"CFs-i9-OXB.normalTitle" = "Verificar";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "ci1-Wi-5B6"; */
+"ci1-Wi-5B6.title" = "Definições";
+
+/* Class = "UILabel"; text = "Show passwords"; ObjectID = "CiP-Nw-8fm"; */
+"CiP-Nw-8fm.text" = "Mostrar palavras-passe";
+
+/* Class = "UINavigationItem"; title = "Buy Premium"; ObjectID = "coQ-Pu-Xbm"; */
+"coQ-Pu-Xbm.title" = "Comprar Premium";
+
+/* Class = "UINavigationItem"; title = "Forgot Password"; ObjectID = "cvr-37-dft"; */
+"cvr-37-dft.title" = "Esqueci-me da palavra-passe";
+
+/* Class = "UILabel"; text = "Show passwords"; ObjectID = "cXn-fM-Bqt"; */
+"cXn-fM-Bqt.text" = "Mostrar palavras-passe";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "CxN-jR-OBM"; */
+"CxN-jR-OBM.title" = "Entrar";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "D1Z-W1-KY1"; */
+"D1Z-W1-KY1.normalTitle" = "Enviar";
+
+/* Class = "UITabBarItem"; title = "Register"; ObjectID = "d6r-1a-NDG"; */
+"d6r-1a-NDG.title" = "Registar";
+
+/* Class = "UILabel"; text = "User Interface"; ObjectID = "daF-Fz-kPE"; */
+"daF-Fz-kPE.text" = "Interface de Utilizador";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "dmM-IQ-Avg"; */
+"dmM-IQ-Avg.normalTitle" = "Editar Perfil";
+
+/* Class = "UITextField"; placeholder = "Repeat new password"; ObjectID = "dPe-38-JPj"; */
+"dPe-38-JPj.placeholder" = "Introduza novamente a sua nova palavra-passe";
+
+/* Class = "UIBarButtonItem"; title = "About"; ObjectID = "dPo-Pp-Imj"; */
+"dPo-Pp-Imj.title" = "Sobre";
+
+/* Class = "UILabel"; text = "Use Touch or Face ID to enter the app"; ObjectID = "dvd-P6-4gg"; */
+"dvd-P6-4gg.text" = "Usar Touch ou Face ID para entrar na aplicação";
+
+/* Class = "UINavigationItem"; title = "Upload A Thumbnail"; ObjectID = "e2S-ln-yO2"; */
+"e2S-ln-yO2.title" = "Enviar Miniatura";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "Eat-Wx-loX"; */
+"Eat-Wx-loX.normalTitle" = "Alterar Palavra-passe";
+
+/* Class = "UILabel"; text = "Total Videos Watched: 0"; ObjectID = "ed9-2t-hYm"; */
+"ed9-2t-hYm.text" = "Total Vídeos Vistos: 0";
+
+/* Class = "UITextField"; placeholder = "Give the bug a title"; ObjectID = "ehF-cc-mC2"; */
+"ehF-cc-mC2.placeholder" = "Dê um título ao erro";
+
+/* Class = "UITabBarItem"; title = "Movies"; ObjectID = "Ejl-ju-S68"; */
+"Ejl-ju-S68.title" = "Filmes";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "ERs-1T-cAp"; */
+"ERs-1T-cAp.normalTitle" = "Guardar";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "eSO-fB-JQ0"; */
+"eSO-fB-JQ0.title" = "Definições";
+
+/* Class = "UINavigationItem"; title = "Report Bugs"; ObjectID = "F6P-Zs-nV1"; */
+"F6P-Zs-nV1.title" = "Reportar Erros";
+
+/* Class = "UILabel"; text = "Watched Time"; ObjectID = "fcQ-VM-es9"; */
+"fcQ-VM-es9.text" = "Tempo Visto";
+
+/* Class = "UILabel"; text = "Is Beginning?"; ObjectID = "feQ-UH-YW5"; */
+"feQ-UH-YW5.text" = "A Começar?";
+
+/* Class = "UILabel"; text = "Episode"; ObjectID = "fnf-Xe-Pxw"; */
+"fnf-Xe-Pxw.text" = "Episódio";
+
+/* Class = "UITextField"; placeholder = "Enter your username"; ObjectID = "FNs-r3-f8Q"; */
+"FNs-r3-f8Q.placeholder" = "Introduza o seu nome de utilizador";
+
+/* Class = "UILabel"; text = "Remember me"; ObjectID = "fvW-yw-iX8"; */
+"fvW-yw-iX8.text" = "Lembrar-me";
+
+/* Class = "UINavigationItem"; title = "Add TV Show Episode"; ObjectID = "gGD-38-ay6"; */
+"gGD-38-ay6.title" = "Adicionar Episódio";
+
+/* Class = "UILabel"; text = "Episode"; ObjectID = "gOq-pJ-UFu"; */
+"gOq-pJ-UFu.text" = "Episódio";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "GSN-io-rR3"; */
+"GSN-io-rR3.text" = "Título";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "GyE-Um-MKk"; */
+"GyE-Um-MKk.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "H5z-qc-KcR"; */
+"H5z-qc-KcR.normalTitle" = "Comprar";
+
+/* Class = "UIButton"; normalTitle = " Login With Google"; ObjectID = "hEs-9I-OCR"; */
+"hEs-9I-OCR.normalTitle" = "Entrar Com Google";
+
+/* Class = "UITabBarItem"; title = "TV Shows"; ObjectID = "HL5-bt-hf1"; */
+"HL5-bt-hf1.title" = "Séries";
+
+/* Class = "UITabBarItem"; title = "Register"; ObjectID = "HLz-Ak-6lw"; */
+"HLz-Ak-6lw.title" = "Registar";
+
+/* Class = "UITabBarItem"; title = "About"; ObjectID = "Htp-Gs-45H"; */
+"Htp-Gs-45H.title" = "Sobre";
+
+/* Class = "UINavigationItem"; title = "Recent"; ObjectID = "hub-PQ-2Sb"; */
+"hub-PQ-2Sb.title" = "Recentes";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hVy-fR-7rd"; */
+"hVy-fR-7rd.text" = "Título";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "iiZ-Cn-QEW"; */
+"iiZ-Cn-QEW.text" = "Completo";
+
+/* Class = "UINavigationItem"; title = "Get premium features for free"; ObjectID = "iKc-ZW-Vtl"; */
+"iKc-ZW-Vtl.title" = "Obtenha as funcionalidades premium gratuitamente";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "ikG-OV-onG"; */
+"ikG-OV-onG.text" = "Completo";
+
+/* Class = "UIBarButtonItem"; title = "Exit"; ObjectID = "IOP-rF-TVT"; */
+"IOP-rF-TVT.title" = "Sair";
+
+/* Class = "UIButton"; normalTitle = "Report Bugs"; ObjectID = "isL-PR-3jJ"; */
+"isL-PR-3jJ.normalTitle" = "Reportar Erros";
+
+/* Class = "UILabel"; text = "Watched Time"; ObjectID = "j7q-zW-VKb"; */
+"j7q-zW-VKb.text" = "Tempo Visto";
+
+/* Class = "UILabel"; text = "Tap image to change it"; ObjectID = "Jb2-NM-yIQ"; */
+"Jb2-NM-yIQ.text" = "Toque na imagem para a alterar";
+
+/* Class = "UITabBarItem"; title = "Login"; ObjectID = "JcB-He-5vx"; */
+"JcB-He-5vx.title" = "Entrar";
+
+/* Class = "UITextField"; placeholder = "Enter a new password"; ObjectID = "jf9-ZU-2T8"; */
+"jf9-ZU-2T8.placeholder" = "Introduza a nova palavra-passe";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jFM-fm-DgE"; */
+"jFM-fm-DgE.text" = "Título";
+
+/* Class = "UILabel"; text = "Season"; ObjectID = "JPp-gc-mmx"; */
+"JPp-gc-mmx.text" = "Temporada";
+
+/* Class = "UINavigationItem"; title = "TV Shows"; ObjectID = "ju1-7z-s2b"; */
+"ju1-7z-s2b.title" = "Séries";
+
+/* Class = "UITextField"; placeholder = "Enter your new password"; ObjectID = "K2g-cn-kXB"; */
+"K2g-cn-kXB.placeholder" = "Introduza a sua nova palavra-passe";
+
+/* Class = "UIBarButtonItem"; title = "About"; ObjectID = "KB9-Su-17P"; */
+"KB9-Su-17P.title" = "Sobre";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Koy-of-NJS"; */
+"Koy-of-NJS.normalTitle" = "Guardar";
+
+/* Class = "UITextField"; placeholder = "Enter your email"; ObjectID = "kYQ-9m-rAy"; */
+"kYQ-9m-rAy.placeholder" = "Introduza o seu email";
+
+/* Class = "UITextField"; placeholder = "Enter your email"; ObjectID = "KZ3-m5-cey"; */
+"KZ3-m5-cey.placeholder" = "Introduza o seu email";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "L3F-GS-w7L"; */
+"L3F-GS-w7L.text" = "Completo";
+
+/* Class = "UILabel"; text = "Season"; ObjectID = "LDO-pv-CeV"; */
+"LDO-pv-CeV.text" = "Temporada";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "M5t-sS-Nb1"; */
+"M5t-sS-Nb1.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Show password"; ObjectID = "Mh6-9h-BGE"; */
+"Mh6-9h-BGE.text" = "Mostrar Palavra-passe";
+
+/* Class = "UINavigationItem"; title = "Register"; ObjectID = "mIQ-Tq-vfa"; */
+"mIQ-Tq-vfa.title" = "Registar";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "nk4-55-W2s"; */
+"nk4-55-W2s.normalTitle" = "Seleccionar";
+
+/* Class = "UINavigationItem"; title = "About this app"; ObjectID = "NV1-yN-J5R"; */
+"NV1-yN-J5R.title" = "Sobre esta aplicação";
+
+/* Class = "UITabBarItem"; title = "TV Shows"; ObjectID = "ovr-TW-g0N"; */
+"ovr-TW-g0N.title" = "Séries";
+
+/* Class = "UIBarButtonItem"; title = "About"; ObjectID = "P8o-aa-KfU"; */
+"P8o-aa-KfU.title" = "Sobre";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "ppR-Lp-k0C"; */
+"ppR-Lp-k0C.placeholder" = "Nome Completo";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "q7O-wv-GNQ"; */
+"q7O-wv-GNQ.text" = "Total";
+
+/* Class = "UITextField"; placeholder = "Original Title"; ObjectID = "qtl-GB-Rcf"; */
+"qtl-GB-Rcf.placeholder" = "Título original";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "qU3-qe-W56"; */
+"qU3-qe-W56.placeholder" = "Palavra-Passe";
+
+/* Class = "UITextField"; placeholder = "Repeat new password"; ObjectID = "r4P-04-J9Z"; */
+"r4P-04-J9Z.placeholder" = "Insira novamente a nova palavra-passe";
+
+/* Class = "UITextField"; placeholder = "Enter your password again"; ObjectID = "rC4-a8-240"; */
+"rC4-a8-240.placeholder" = "Introduza a sua palavra-passe novamente";
+
+/* Class = "UITabBarItem"; title = "Recently Watched"; ObjectID = "Rei-8b-rcU"; */
+"Rei-8b-rcU.title" = "Recentes";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "RkZ-5m-Tc7"; */
+"RkZ-5m-Tc7.title" = "Definições";
+
+/* Class = "UITextField"; placeholder = "Season"; ObjectID = "rSI-m1-AY9"; */
+"rSI-m1-AY9.placeholder" = "Temporada";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "s7F-jm-tMe"; */
+"s7F-jm-tMe.title" = "Definições";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "SaY-TZ-8PD"; */
+"SaY-TZ-8PD.normalTitle" = "Entrar";
+
+/* Class = "UIViewController"; title = "Change Password"; ObjectID = "si1-I8-laI"; */
+"si1-I8-laI.title" = "Alterar Palavra-passe";
+
+/* Class = "UITabBarItem"; title = "About"; ObjectID = "sJc-Ki-Ahb"; */
+"sJc-Ki-Ahb.title" = "Sobre";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "SoH-hF-0jZ"; */
+"SoH-hF-0jZ.placeholder" = "Utilizador";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "SrK-Pd-Vp4"; */
+"SrK-Pd-Vp4.title" = "Item";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "sYP-QG-2O1"; */
+"sYP-QG-2O1.text" = "Título";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "TbX-Mh-djQ"; */
+"TbX-Mh-djQ.title" = "Sair";
+
+/* Class = "UINavigationItem"; title = "Teste"; ObjectID = "TE9-rc-wsZ"; */
+"TE9-rc-wsZ.title" = "Teste";
+
+/* Class = "UINavigationItem"; title = "My Profile"; ObjectID = "tjg-DO-IZX"; */
+"tjg-DO-IZX.title" = "Meu Perfil";
+
+/* Class = "UITabBarItem"; title = "Recently Watched"; ObjectID = "TvO-55-cvg"; */
+"TvO-55-cvg.title" = "Recentes";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "tZE-9R-Wp7"; */
+"tZE-9R-Wp7.title" = "Definições";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "U82-pk-bqn"; */
+"U82-pk-bqn.title" = "Sair";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "UBb-kx-CAS"; */
+"UBb-kx-CAS.text" = "Completo";
+
+/* Class = "UILabel"; text = "Premium User"; ObjectID = "UTl-45-N7O"; */
+"UTl-45-N7O.text" = "Utilizador Premium";
+
+/* Class = "UILabel"; text = "If you want the premium features for free, wait no more you can have them by watching some videos from our partners! Once you've watched all videos you will receive the premium package free of charge!"; ObjectID = "uWY-mg-RfH"; */
+"uWY-mg-RfH.text" = "Se quer as funcionalidades premium de borla, pode obtê-las vendo alguns vídeos dos nossos parceiros! Uma vez que veja todos os vídeos necessários obterá as funcionalidades premium sem pagar nada!";
+
+/* Class = "UIBarButtonItem"; title = "About"; ObjectID = "uX1-po-IoB"; */
+"uX1-po-IoB.title" = "Sobre";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "vCg-G5-dhi"; */
+"vCg-G5-dhi.normalTitle" = "Guardar";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "voC-YW-1DH"; */
+"voC-YW-1DH.normalTitle" = "Registar";
+
+/* Class = "UITabBarItem"; title = "Movies"; ObjectID = "VQ6-Ag-9YH"; */
+"VQ6-Ag-9YH.title" = "Filmes";
+
+/* Class = "UITextField"; placeholder = "Enter the code you received in your email"; ObjectID = "vUe-4b-FNd"; */
+"vUe-4b-FNd.placeholder" = "Introduza o código que recebeu no seu email";
+
+/* Class = "UILabel"; text = "Watched Time"; ObjectID = "W3X-7N-tYN"; */
+"W3X-7N-tYN.text" = "Tempo Visto";
+
+/* Class = "UILabel"; text = "Movies"; ObjectID = "w6D-NP-IUW"; */
+"w6D-NP-IUW.text" = "Filmes";
+
+/* Class = "UITabBarItem"; title = "Login"; ObjectID = "W8x-s4-uHb"; */
+"W8x-s4-uHb.title" = "Entrar";
+
+/* Class = "UIButton"; normalTitle = "Upload A Thumbnail"; ObjectID = "wmw-iE-JDp"; */
+"wmw-iE-JDp.normalTitle" = "Enviar Uma Miniatura";
+
+/* Class = "UITextField"; placeholder = "Enter your full name"; ObjectID = "WUG-Y3-GdO"; */
+"WUG-Y3-GdO.placeholder" = "Introduza o seu nome completo";
+
+/* Class = "UILabel"; text = "If you came across a movie or a tv show that has no thumbnail, you can help us by uploading one yourself to the title in question so that we can grow our thumbnail database."; ObjectID = "wUM-8Z-zbC"; */
+"wUM-8Z-zbC.text" = "Se encontrou algum filme ou série que não continha uma miniatura, pode-nos ajudar enviando uma para que possamos crescer a nossa base de dados de miniaturas.";
+
+/* Class = "UITextField"; placeholder = "Episode"; ObjectID = "x5V-2c-SOG"; */
+"x5V-2c-SOG.placeholder" = "Episódio";
+
+/* Class = "UITextField"; placeholder = "Enter your full name"; ObjectID = "XCJ-dL-jdH"; */
+"XCJ-dL-jdH.placeholder" = "Introduza o seu nome completo";
+
+/* Class = "UITextField"; placeholder = "Original title of movie or tv show"; ObjectID = "xRr-OV-gSA"; */
+"xRr-OV-gSA.placeholder" = "Título (Tem de ser o título original)";
+
+/* Class = "UITextField"; placeholder = "Watched Time"; ObjectID = "xuY-sB-6js"; */
+"xuY-sB-6js.placeholder" = "Tempo Visto";
+
+/* Class = "UILabel"; text = "Application"; ObjectID = "ydH-Wt-XQZ"; */
+"ydH-Wt-XQZ.text" = "Aplicação";
+
+/* Class = "UILabel"; text = "Tv Shows"; ObjectID = "yEf-we-Jw0"; */
+"yEf-we-Jw0.text" = "Séries";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "yH1-6i-mks"; */
+"yH1-6i-mks.normalTitle" = "Esqueci-me da palavra-passe?";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yKN-kY-wVO"; */
+"yKN-kY-wVO.title" = "Item";
+
+/* Class = "UILabel"; text = "Episode"; ObjectID = "YNw-g7-un6"; */
+"YNw-g7-un6.text" = "Episódio";
+
+/* Class = "UILabel"; text = "Show passwords"; ObjectID = "yWX-gJ-bz5"; */
+"yWX-gJ-bz5.text" = "Mostrar palavras-passe";
+
+/* Class = "UILabel"; text = "Product Info:"; ObjectID = "zRd-HX-ZkF"; */
+"zRd-HX-ZkF.text" = "Descrição";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "zsd-fu-GRC"; */
+"zsd-fu-GRC.title" = "Sair";
+
+/* Class = "UILabel"; text = "Tiago Moreira"; ObjectID = "zSe-PQ-VeH"; */
+"zSe-PQ-VeH.text" = "Tiago Moreira";
+
+/* Class = "UILabel"; text = "Ask to add next episode"; ObjectID = "zTm-Aq-FjM"; */
+"zTm-Aq-FjM.text" = "Perguntar para adicionar próximo episódio";
+
+/* Class = "UIButton"; normalTitle = "Watch Video"; ObjectID = "ZUH-VD-SuR"; */
+"ZUH-VD-SuR.normalTitle" = "Ver Vídeo";
+

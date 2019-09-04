@@ -1,0 +1,322 @@
+/* (No Comment) */
+"account_deleted" = "Conta apagada!";
+
+/* (No Comment) */
+"add_movie" = "Adicionar Filme";
+
+/* (No Comment) */
+"add_tvshow" = "Addicionar Episódio";
+
+/* (No Comment) */
+"added" = "adicionado";
+
+/* (No Comment) */
+"app_needs_updating" = "Existe uma actualização! É obrigatório que actualize a aplicação.";
+
+/* (No Comment) */
+"are_you_sure" = "Tem a certeza?";
+
+/* (No Comment) */
+"ask_if_user_has_finished_watching_the_show" = "Acabou de ver este";
+
+/* (No Comment) */
+"ask_if_user_wants_to_add_next_episode" = "Quer adicionar o episódio seguinte da série";
+
+/* (No Comment) */
+"ask_if_user_wants_to_edit_show" = "Quer editar este";
+
+/* (No Comment) */
+"ask_user_if_he_wants_to_link_his_google_account" = "Já existe um utilizador registado com esse email, quer associar esta conta google?";
+
+/* (No Comment) */
+"ask_user_if_he_wants_to_unlink_his_google_account" = "Tem a certeza que quer desassociar a sua conta google? Terá de a voltar a associar caso queira voltar a usá-la! Continuar?";
+
+/* (No Comment) */
+"ask_user_to_delete_account" = "Tem a certeza que quer apagar a sua conta?\nEsta acção é irreversível!";
+
+/* (No Comment) */
+"ask_user_to_delete_everything" = "Tem a certeza que quer apagar tudo?\nEsta acção é irreversível!";
+
+/* (No Comment) */
+"ask_what_user_wants_to_do" = "O que deseja fazer?";
+
+/* (No Comment) */
+"biometric_not_enrolled" = "Tem de registar pelo menos uma impressão digital ou uma cara para poder usar esta funcionalidade!";
+
+/* (No Comment) */
+"bug_report_saved_successfully" = "Relatório de erro guardado com sucesso!";
+
+/* (No Comment) */
+"bug_report_saved_title" = "Relatório de erro guardado!";
+
+/* (No Comment) */
+"bug_report_sent_title" = "Relatório de erro enviado!";
+
+/* (No Comment) */
+"camera_btn" = "Câmera";
+
+/* (No Comment) */
+"camera_or_library" = "Abrir câmera ou biblioteca?";
+
+/* (No Comment) */
+"cancel_btn" = "Cancelar";
+
+/* No comment provided by engineer. */
+"Cellular" = "Celular";
+
+/* (No Comment) */
+"change_password" = "Alterar Palavra-passe";
+
+/* (No Comment) */
+"check_remember_me_first_before_using_this_functionality" = "Tem de marcar a opção \"Lembrar?\" ao entrar antes de poder usar esta funcionalidade!";
+
+/* (No Comment) */
+"code_wrong" = "O código que introduziu está errado!";
+
+/* (No Comment) */
+"completed" = "Completo";
+
+/* (No Comment) */
+"current_password_wrong" = "A palavra-passe actual está errada!";
+
+/* (No Comment) */
+"delete_account" = "Apagar a minha conta";
+
+/* (No Comment) */
+"device_does_not_support_biometric" = "O seu aparelho não suporta autenticação biometrica!";
+
+/* (No Comment) */
+"edit_information" = "Editar Informação";
+
+/* (No Comment) */
+"edit_movie" = "Editar Filme";
+
+/* (No Comment) */
+"edit_profile_btn" = "Editar Perfil";
+
+/* (No Comment) */
+"edit_tvshow" = "Editar Episódio";
+
+/* (No Comment) */
+"email_requirements" = "O email não pode conter mais que 50 caracteres minúsculos e tem de ser um email válido!";
+
+/* (No Comment) */
+"email_sent" = "Email enviado!";
+
+/* (No Comment) */
+"episode" = "Episódio";
+
+/* (No Comment) */
+"episode_requirements" = "O campo episódio não pode ter mais que 2 caracteres e o valor máximo para a episódio é 79!\nExemplo ex: (00)";
+
+/* Localizable.strings
+  hollywoodtracker
+
+  Created by Tiago Moreira on 08/04/19.
+  Copyright © 2019 Tiago Moreira. All rights reserved. */
+"error" = "Erro!";
+
+/* (No Comment) */
+"everything_deleted_successfully" = "Tudo apagado com sucesso!";
+
+/* (No Comment) */
+"fullname_requirements" = "O campo nome completo só pode conter letras, espaços e 80 caracteres no máximo, e tem de introduzir no mínimo 2 nomes!";
+
+/* (No Comment) */
+"google_account_updated" = "Estado da conta Google actualizado";
+
+/* (No Comment) */
+"in_app_purchases_not_available" = "O seu aparelho não suporta compras na aplicação!";
+
+/* (No Comment) */
+"information" = "Informação!";
+
+/* (No Comment) */
+"library_btn" = "Biblioteca";
+
+/* (No Comment) */
+"logged_in" = "Entrou com sucesso!";
+
+/* (No Comment) */
+"mov" = "filme";
+
+/* (No Comment) */
+"movie" = "Filme";
+
+/* (No Comment) */
+"movies" = "Filmes";
+
+/* (No Comment) */
+"new_password_equals_current" = "A sua nova palavra-passe não pode ser igual à palavra-passe actual!";
+
+/* No comment provided by engineer. */
+"No Connection" = "Sem Ligação!";
+
+/* (No Comment) */
+"no_btn" = "Não";
+
+/* (No Comment) */
+"no_camera" = "Não tem câmera ou ela está avariada!";
+
+/* (No Comment) */
+"no_internet" = "Ligação à internet não disponível!";
+
+/* (No Comment) */
+"no_recent_to_show" = "Não viu nada recentemente.";
+
+/* (No Comment) */
+"not_watching_movies" = "Não está a ver nenhum filme actualmente.";
+
+/* (No Comment) */
+"not_watching_tvshows" = "Não está a ver nenhuma série actualmente.";
+
+/* (No Comment) */
+"nothing_to_delete" = "Não tem nada para apagar!";
+
+/* (No Comment) */
+"offline_changes" = "As alterações que fez foram guardadas e serão comunicadas\nao servidor assim que recupere a sua ligação è internet!";
+
+/* No comment provided by engineer. */
+"offline_changes_message" = "As alterações que fez foram guardadas e serão comunicadas\nao servidor assim que recupere a sua ligação è internet!";
+
+/* (No Comment) */
+"ok_btn" = "Ok";
+
+/* (No Comment) */
+"on_empty_user_inputs" = "Tem de preencher tudo antes de continuar!";
+
+/* No comment provided by engineer. */
+"password_changed" = "Palavra-passe alterada!";
+
+/* (No Comment) */
+"password_changed_successfully" = "A sua palavra-passe foi alterada com sucesso!";
+
+/* (No Comment) */
+"password_changed_title" = "Palavra-passe alterada!";
+
+/* (No Comment) */
+"password_requirements" = "A palavra-passe tem de ter pelo menos 8 caracteres, 1 letra maiúscula, 1 letra minúscula, 1 número e 1 símbolo! O símbolo não pode ser um ponto e vírgula!";
+
+/* (No Comment) */
+"passwords_dont_match" = "As palavras-passe não são iguais!";
+
+/* No comment provided by engineer. */
+"Passwords_dont_match" = "As palavras-passe não correspondem!";
+
+/* No comment provided by engineer. */
+"passwords_requirements" = "A palavra-passe tem de ter pelo menos 8 caracteres, 1 letra maiúscula, 1 letra minúscula, 1 número e 1 símbolo! O símbolo não pode ser um ponto e vírgula!";
+
+/* (No Comment) */
+"place_fingerprint_in_sensor" = "Coloque o dedo no sensor touch ID para que seja autenticado.";
+
+/* (No Comment) */
+"premium_user" = "Utilizador Premium";
+
+/* (No Comment) */
+"product_info" = "Descrição";
+
+/* (No Comment) */
+"product_title" = "Título";
+
+/* No comment provided by engineer. */
+"profile" = "Perfil";
+
+/* (No Comment) */
+"profile_saved_successfully" = "O seu perfil foi actualizado, e as alterações foram guardadas com sucesso!";
+
+/* (No Comment) */
+"profile_updated_title" = "O seu perfil foi actualizado!";
+
+/* No comment provided by engineer. */
+"recent" = "Recentes";
+
+/* (No Comment) */
+"save_btn" = "Guardar";
+
+/* (No Comment) */
+"season" = "Temporada";
+
+/* (No Comment) */
+"season_requirements" = "O campo temporada não pode ter mais que 2 caracteres e o valor máximo para a temporada é 59!\nExemplo ex: (01)";
+
+/* (No Comment) */
+"show_deleted" = "Show apagado!";
+
+/* (No Comment) */
+"success" = "Sucesso!";
+
+/* (No Comment) */
+"success_title" = "Successo!";
+
+/* (No Comment) */
+"successfully_unliked_google_account" = "Desassociou a sua conta google com sucesso!";
+
+/* (No Comment) */
+"thumbnail_uploaded" = "Miniatura enviada!";
+
+/* (No Comment) */
+"title_requirements" = "O título não pode conter mais que 60 caracteres!";
+
+/* (No Comment) */
+"total" = "Total";
+
+/* (No Comment) */
+"total_videos_watched" = "Total Vídeos Vistos";
+
+/* (No Comment) */
+"total_videos_watched_saved" = "Total de vídeos vistos actualizado com sucesso!";
+
+/* (No Comment) */
+"tv" = "episódio";
+
+/* No comment provided by engineer. */
+"tvshows" = "Séries";
+
+/* (No Comment) */
+"unlink_google_account" = "Desassociar Conta Google";
+
+/* (No Comment) */
+"updated" = "actualizado";
+
+/* (No Comment) */
+"updated_to_premium_successfully" = "Parabéns! Agora é um utilizador premium!";
+
+/* (No Comment) */
+"upload_btn" = "Enviar";
+
+/* (No Comment) */
+"user_already_registered" = "Oh Bolas...!";
+
+/* (No Comment) */
+"user_is_invalid" = "Algo se passa com a sua conta de utilizador, parece que não existe! Será desconectado da aplicação, tente entrar novamente ou use uma conta diferente!";
+
+/* (No Comment) */
+"username_requirements" = "O campo nome de utilizador só pode conter letras, números, pontos e não pode conter mais do que 40 caracters!";
+
+/* (No Comment) */
+"wait_to_watch_video_again" = "Tem de esperar um bocado antes de poder ver outro vídeo!";
+
+/* (No Comment) */
+"warning" = "Aviso!";
+
+/* (No Comment) */
+"watched_time_requirements" = "O campo tempo visto não pode ter mais que 8 caracteres e o valor máximo para o tempo visto é 03:59:59!\nExemplo: (00:00:00)";
+
+/* (No Comment) */
+"welcome" = "Bem-vindo ao Hollywood Tracker!";
+
+/* No comment provided by engineer. */
+"WiFi" = "WiFi";
+
+/* (No Comment) */
+"yes_btn" = "Sim";
+
+/* (No Comment) */
+"you_sure_delete_title" = "Tem a certeza que quer apagar este título?\nEsta acção é irreversível!";
+
+"buy_btn" = "Comprar Premium";
+
+"restore_btn" = "Restaurar Premium";
+
+"premium_restored_successfully" = "Premium Restaurado Com Successo!";
+
